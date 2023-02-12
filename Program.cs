@@ -5,7 +5,7 @@
 {
     public static void Main(string[] args)
     {
-            harmonicno.Harmonic();
+            PrimeFactor.FactorPrime();
             //flipCoin.CalculatePercentage();
             //            int chk_year;
             //            Console.Write("\n\n");
